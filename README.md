@@ -1,4 +1,4 @@
-# Collaborative Filtering: Movie Recommendation System
+# Movie Recommendation System
 
 ## Project description
 This repository contains the code for the final course project of PSTAT 134 (Statistical Data Science) at the University of California, Santa Barbara taken in Fall 2023. Students are required to implement collaborative filtering algorithms to predict movie ratings given observed user affinities, using linear algebra and machine learning techniques to facilitate prediction. Problems are given in a guided format and incrementally checked for correctness. 
