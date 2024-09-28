@@ -11,7 +11,7 @@ Models are implemented in Python, using data science libraries (pandas, altair, 
 * Data modeling 
 * Unsupervised learning 
     * Matrix factorization
-    * Dimensionality reduction
+    * Regularization
     * Clustering
         * K-means clustering 
         * Hierarchical clustering  
