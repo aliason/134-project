@@ -9,17 +9,15 @@ Models are implemented in Python, using data science libraries (pandas, altair, 
 * Data transformation
 * Data visualization  
 * Data modeling 
-* Collaborative filtering
+* Unsupervised learning 
     * Matrix factorization
-    * K-means clustering 
-    * Hierarchical clustering  
-* Dimensionality reduction
-    * Regularization 
-* Evaluation metrics 
-    * Model validation
-        * RMSE
-        * Residual analysis
+    * Dimensionality reduction
     * Clustering
-        * Silhouette coeﬀicient
-        * Calinski-Harabasz Index
-        * Davies-Bouldin Index 
+        * K-means clustering 
+        * Hierarchical clustering  
+* Model evaluation 
+    * RMSE
+    * MAE
+    * Silhouette coeﬀicient
+    * Calinski-Harabasz Index
+    * Davies-Bouldin Index 
